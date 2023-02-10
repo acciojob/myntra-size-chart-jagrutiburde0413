@@ -3,7 +3,7 @@ table{
 	border:solid black;
 	border-collapse:collapse;
 }
-td{
+td,th{
 	border:solid black;
 	border-collapse:collapse;
 }
